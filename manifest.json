@@ -1,0 +1,19 @@
+{
+  "name": "Grand Casino Baden",
+  "short_name": "Grand Casino Baden",
+  "theme_color": "",
+  "background_color": "#141414",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1765965265-favicons.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
